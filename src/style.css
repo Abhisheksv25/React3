@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Buenard&display=swap');
+
+body
+{
+  background-color: #b5b5b5
+}
+h1
+{
+color: black;
+text-align: center;
+font-family: berkshire Swash;
+}
+#button
+{
+margin-left: 45vw;
+margin-top: 5vh;  
+}
+#dropdown-button
+{
+  padding: 10px;
+  width: 8.5vw;
+  height: 10vh;
+  background-color: black;
+  border-color: black;
+  font-family: berkshire Swash;
+  font-size: 3.8vh;
+}
+#baddy
+{
+  margin-top: 10vh;
+  font-size: 4.5vh;
+  padding-left: 5vw;
+  padding-right: 7vw;
+  font-family: buenard;
+  font-weight: 500;
+  color: black;
+}
+#basketball
+{
+  margin-top: 10vh;
+  font-size: 4.5vh;
+  padding-left: 5vw;
+  padding-right: 7vw;
+  font-family: buenard;
+  font-weight: 500;  
+  color: black;
+}
+#swimming
+{
+  margin-top: 10vh;
+  font-size: 4.5vh;
+  padding-left: 5vw;
+  padding-right: 7vw;
+  font-family: buenard;
+  font-weight: 500;  
+  color: black;
+}
